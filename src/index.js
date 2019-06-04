@@ -10,7 +10,7 @@ import './index.css'
 
 
 const store = createStore(rootReducer);
-console.log("=====store.getState====",store.getState());
+//console.log("=====store.getState====",store.getState());
 
 class Index extends Component {
 

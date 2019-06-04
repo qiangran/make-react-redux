@@ -1,5 +1,4 @@
 //校验输入框的reducer
-
 export const pageReducer = function(state={errorMsg:''},action) {
 
     switch (action.type) {
